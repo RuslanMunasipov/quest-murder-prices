@@ -13,3 +13,8 @@ The files are in the release `current`:
 - `<region>-<ruleset>-<house>-history.txt`: the last 30 days, per item the daily minimum, median and units.
 
 Blizzard's API gives listings only, not sales.
+
+## Icons
+
+`icons/<FileDataID>.png`: 48x48 item icons decoded from the WoW Forever client's own icon files (build 1.60.1.70888),
+for the plugin's bag view. World of Warcraft icons are (c) Blizzard Entertainment.
